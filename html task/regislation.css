@@ -1,0 +1,26 @@
+*{
+    margin-left: 5pc;
+}
+.submitbtn{
+    color: rgb(28, 28, 31);
+    background: #5d03ecd7;
+}
+.cancelbtn{
+    color: rgb(15, 14, 14);
+    background: #ee052c;
+}
+
+button:hover{
+    background-color: aliceblue;
+}
+form{
+    background-color: rgb(116, 116, 131);
+    width: 30pc;
+    padding: 2pc;
+    margin-left: 2pc;
+    border-radius: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+input{
+    width: 10pc;
+}
